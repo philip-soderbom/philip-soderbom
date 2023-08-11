@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Philip Söderbom</h1>
+<h1 align="center">Philip Söderbom</h1>
 <h3 align="center">A CS/Information and Communication Engineering Student</h3>
 
 - 🌱 I’m currently learning **Next.js 13, TypeScript, Python and Java**
