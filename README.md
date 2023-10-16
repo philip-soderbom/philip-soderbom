@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js 13, TypeScript, Python and Java**
   - Check out my project built with Next.js 13: Discover your Spotify music trends with WrapNow at [https://wrap-now.vercel.app](https://wrap-now.vercel.app)
+  - <a href="https://wrap-now.vercel.app" target="_blank">wrap-now.vercel.app</a>
   - All data provided by the Spotify Web API.
 
 - 📫 How to reach me **philip.m.soderbom@gmail.com**
