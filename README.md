@@ -1,7 +1,7 @@
 <h1 align="center">Philip Söderbom</h1>
-<h3 align="center">Information and Communication Engineering Technologies Student with interest for data analysis and machine learning</h3>
+<h3 align="center">Master of Science in Information and Communication Engineering Technologies</h3>
 
-- 🌱 I’m currently learning **Python, Java, TypeScript, Next.js**. Also delving into data analysis with **AWS, Databricks**.
+- 🌱 I’m learning more about **Python, Java, TypeScript, Next.js**. Also delving into data analysis with **AWS, Databricks**.
   - Check out my project built with Next.js 13: Discover your Spotify music trends with WrapNow at <a href="https://wrap-now.vercel.app" target="_blank">**wrap-now.vercel.app**</a>
   - All data provided by the Spotify Web API.
 
@@ -19,6 +19,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt="C#" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
