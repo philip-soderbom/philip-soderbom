@@ -1,7 +1,7 @@
 <h1 align="center">Philip Söderbom</h1>
 <h3 align="center">A CS/Information and Communication Engineering Student</h3>
 
-- 🌱 I’m currently learning **Python, Java, TypeScript, Next.js**. Also delving into data analysis with **AWS, Databricks**
+- 🌱 I’m currently learning **Python, Java, TypeScript, Next.js**. Also delving into data analysis with **AWS, Databricks**.
   - Check out my project built with Next.js 13: Discover your Spotify music trends with WrapNow at <a href="https://wrap-now.vercel.app" target="_blank">**wrap-now.vercel.app**</a>
   - All data provided by the Spotify Web API.
 
@@ -43,7 +43,8 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a> 
+  </a>
+  <a href="https://databricks.com target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philip-soderbom&show_icons=true&locale=en&layout=compact" alt="philip-soderbom" /></p>
