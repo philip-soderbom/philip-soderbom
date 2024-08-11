@@ -56,6 +56,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philip-soderbom&show_icons=true&locale=en&layout=compact" alt="philip-soderbom" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philip-soderbom&show_icons=true&locale=en" alt="philip-soderbom" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philip-soderbom&show_icons=true&locale=en" alt="philip-soderbom" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philip-soderbom&" alt="philip-soderbom" /></p>
