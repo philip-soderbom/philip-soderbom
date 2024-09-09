@@ -1,7 +1,6 @@
 <h1 align="center">Philip Söderbom</h1>
 <h3 align="center">Master of Science in Information and Communication Engineering Technologies</h3>
 
-- 💼 Looking for engineering roles allowing me to leverage my skill set and continuing learning
 - 🧩 Proficient in **Python, Java, MATLAB, Next.js and TypeScript**, but familiar with several other programming languages and tools
 - 💫 Special interest in data analysis, machine learning, and digital communications
   - Thrive on solving complex technical problems with software
