@@ -5,10 +5,7 @@
 - 🧩 Proficient in **Python, Java, MATLAB, Next.js and TypeScript**, but familiar with several other programming languages and tools
 - 💫 Special interest in data analysis, machine learning, and digital communications
   - Thrive on solving complex technical problems with software
-  - Want to learn more about cloud computing (AWS) and containerized development (Docker, Kubernetes)
-
-
-- Check out my React web app project built with Next.js 13: Discover your Spotify music trends with WrapNow at <a href="https://wrap-now.vercel.app" target="_blank">**wrap-now.vercel.app**</a>
+  - Keen to learn more about cloud computing (AWS) and containerized development (Docker, Kubernetes)
 
 - 📫 How to reach me **philip.m.soderbom@gmail.com**
 
