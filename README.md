@@ -7,8 +7,6 @@
   - Thrive on solving complex technical problems with software
   - Keen to learn more about cloud computing (AWS) and containerized development (Docker, Kubernetes)
 
-- 📫 How to reach me **philip.m.soderbom@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/philip-söderbom-3a4072206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philip söderbom" height="30" width="40" /></a>
